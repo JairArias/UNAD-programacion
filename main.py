@@ -1,6 +1,6 @@
 from core.clients import Cliente
-from core.service import SalaReserva, EquipoAlquiler, Asesoria
-from core.booking import Reserva
+from core.services import SalaReserva, EquipoAlquiler, Asesoria
+from core.bookings import Reservagit
 from core.utils import Logger
 import sys
 
