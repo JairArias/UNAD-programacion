@@ -1,11 +1,7 @@
 from core.clients import Cliente
 from core.services import SalaReserva, EquipoAlquiler, Asesoria
-<<<<<<< HEAD
-from core.bookings import Reservagit
-=======
 from core.bookings import Reserva
 from core.base import SoftwareFJException
->>>>>>> tarea4/simulacion
 from core.utils import Logger
 
 def ejecutar_simulacion():
